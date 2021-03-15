@@ -1,0 +1,11 @@
+body {
+    background-color: #cc8e5b;
+}
+#search-text {
+    margin-left: 10vw;
+    margin-top: 3vw;
+}
+
+#title, #year, #plot, #poster {
+    padding-left: 10vw;
+}
